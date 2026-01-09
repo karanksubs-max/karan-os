@@ -1,0 +1,10 @@
+--- FILE: Clinical_Log_01.txt
+Subjective: Feeling stable today.
+Sleep was good, about 8 hours.
+I have a plan for the day.
+No fast thoughts.
+
+--- FILE: Clinical_Log_02.txt
+Subjective: Slightly high energy.
+Arousal is rising! Need to focus.
+Synthesis of ideas is happening fast because everything connects.
